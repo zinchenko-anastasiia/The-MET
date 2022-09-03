@@ -1,5 +1,6 @@
 # The MET
 ![Альтернативный текст](https://github.com/zinchenko-anastasiia/The-MET/blob/master/src/images/screenshots/1-screenshots.jpg "The MET")
+
 [DEMO LINK](https://zinchenko-anastasiia.github.io/The-MET/)
 
 ## About
