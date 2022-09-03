@@ -1,4 +1,12 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# The MET
+[DEMO LINK](https://zinchenko-anastasiia>.github.io/The-MET/ "DEMO LINK")
+
+## About
+
+This project is the site of one of the largest art museums The MET. On the site you can find up-to-date information about the museum’s operating hours, exhibitions and more.
+
+### Technologies:
++ HTML/CSS
++ SCSS
++ Flexbox and Grid layout
++ JavaScript
