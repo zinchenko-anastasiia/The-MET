@@ -1,5 +1,5 @@
 # The MET
-[DEMO LINK](https://zinchenko-anastasiia>.github.io/The-MET/ "DEMO LINK")
+[DEMO LINK](https://zinchenko-anastasiia>.github.io/The-MET/)
 
 ## About
 
